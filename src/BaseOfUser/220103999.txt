@@ -1,0 +1,7 @@
+Employee ID       :220103999
+Employee Name     :Abdrashit Tanirbergen
+Age               :18
+Employee contact  :87058728676
+Email Information :220103122@stu.sdu.edu.kz
+Employee position :Student
+Employee Salary   :9999$

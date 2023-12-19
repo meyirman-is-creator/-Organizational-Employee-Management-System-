@@ -1,0 +1,7 @@
+Employee ID       :220103295
+Employee Name     :Salamat Daribaev
+Age               :17
+Employee contact  :908394943
+Email Information :220103295@stu.sdu.edu.kz
+Employee position :Student
+Employee Salary   :36 600$

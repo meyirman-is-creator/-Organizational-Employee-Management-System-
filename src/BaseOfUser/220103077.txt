@@ -1,0 +1,7 @@
+Employee ID       :220103077
+Employee Name     :Rakhmatulla Duman
+Age               :18
+Employee contact  :8272313
+Email Information :220103077@stu.sdu.edu.kz
+Employee position :Stundet
+Employee Salary   :200$
